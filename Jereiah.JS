@@ -40,5 +40,7 @@ console.log(NFTs.length);
 
 // call your functions below this line
 mintNFT ("Jereiah", "Pink", "Hoodie", "Goldchain");
+mintNFT ("Miah", "Brown", "Hoodie", "Goldearrings");
+mintNFT ("Mendoza", "Black", "Hoodie", "Goldnecklace");
 listNFTs();
 getTotalSupply();
